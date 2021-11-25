@@ -1,2 +1,3 @@
 # git-playground
-git 다루는 기술
+
+git으로 놀아 보자!!!
